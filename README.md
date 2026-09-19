@@ -42,7 +42,7 @@ An interactive image gallery featuring categorization, dynamic filtering, and a 
   * CSS transitions, CSS transforms, and flexible layout design using CSS Grid[cite: 1].
 
 #### Output Preview
-![Task 1 Preview](Task-1_Image-Gallery/screenshot.png)
+![Task 1 Preview](Task-1_Image-Gallery/Pasted%20image.png)
 
 ---
 
@@ -60,7 +60,7 @@ A standard arithmetic calculator built with a display interface and evaluation e
   * CSS Grid configuration for responsive button keypad layouts[cite: 1].
 
 #### Output Preview
-![Task 2 Preview](Task-2_Calculator/screenshot.png)
+![Task 2 Preview](Task-2_Calculator/Pasted%20image1.png)
 
 ---
 
@@ -77,7 +77,7 @@ A modern, responsive single-page personal portfolio highlighting developer profi
   * Responsive design strategies using CSS media queries and relative units[cite: 1].
 
 #### Output Preview
-![Task 3 Preview](Task-3_Portfolio/screenshot.png)
+![Task 3 Preview](Task-3_Portfolio/Pasted%20image2.png)
 
 ---
 
@@ -95,7 +95,7 @@ A custom audio player interface providing standard playback management and progr
   * Modular data structures using arrays of audio metadata objects.
 
 #### Output Preview
-![Task 4 Preview](Task-4_Music-Player/screenshot.png)
+![Task 4 Preview](Task-4_Music-Player/Pasted%20image3.png)
 
 ---
 
