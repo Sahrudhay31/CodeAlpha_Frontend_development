@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #0f172a;
+    color: #fff;
+}
+
+.player {
+    background: #1e293b;
+    padding: 2rem;
+    border-radius: 12px;
+    width: 320px;
+    text-align: center;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+}
+
+.track-info h2 {
+    font-size: 1.3rem;
+    margin-bottom: 0.3rem;
+}
+
+.track-info p {
+    color: #94a3b8;
+    margin-bottom: 1.5rem;
+}
+
+.progress-container {
+    background: #334155;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 6px;
+    width: 100%;
+    margin-bottom: 0.5rem;
+}
+
+.progress-bar {
+    background: #38bdf8;
+    height: 100%;
+    width: 0%;
+    border-radius: 5px;
+}
+
+.time-display {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.8rem;
+    color: #94a3b8;
+    margin-bottom: 1.5rem;
+}
+
+.controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.btn {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: transform 0.1s;
+}
+
+.btn:active {
+    transform: scale(0.95);
+}
+
+.play-btn {
+    background: #38bdf8;
+    color: #0f172a;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.volume-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    font-size: 0.85rem;
+}
