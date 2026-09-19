@@ -6,23 +6,23 @@ This repository contains the completed assignments developed during the CodeAlph
 
 ## Project Structure
 
-CodeAlpha_Frontend_development/
-├── README.md
-├── Task-1_Image-Gallery/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-├── Task-2_Calculator/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-├── Task-3_Portfolio/
-│   ├── index.html
-│   └── style.css
-└── Task-4_Music-Player/
-    ├── index.html
-    ├── style.css
-    └── script.js
+CodeAlpha_Frontend_development/ <br>
+├── README.md <br>
+├── Task-1_Image-Gallery/ <br>
+│   ├── index.html <br>
+│   ├── style.css <br>
+│   └── script.js <br>
+├── Task-2_Calculator/ <br>
+│   ├── index.html <br>
+│   ├── style.css <br>
+│   └── script.js <br>
+├── Task-3_Portfolio/ <br>
+│   ├── index.html <br>
+│   └── style.css <br>
+└── Task-4_Music-Player/  <br>
+    ├── index.html <br>
+    ├── style.css <br>
+    └── script.js <br>
 
 ---
 
